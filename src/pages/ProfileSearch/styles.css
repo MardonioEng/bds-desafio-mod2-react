@@ -1,8 +1,12 @@
+.container {
+  margin: 30px 90px;
+}
+
 .search-container {
   background: #E6F7FF;
-  margin: 50px 90px;
   padding: 40px 30px;
   border-radius: 16px;
+  margin-bottom: 30px;
 }
 
 .search-container h1 {
