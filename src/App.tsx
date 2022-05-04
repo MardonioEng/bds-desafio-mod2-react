@@ -1,12 +1,10 @@
-import Navbar from "components/Navbar";
-import ProfileSearch from "pages/ProfileSearch";
+import Routes from 'Routes';
 import "./App.css";
 
 function App() {
 	return (
 		<>
-			<Navbar />
-			<ProfileSearch />
+			<Routes />
 		</>
 	);
 }
